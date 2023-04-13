@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+}
+
+table {
+	color: #ad603e;
+	border-collapse: collapse;
+}
+
+body {
+	background: #b8f2f2;
+}
+
+td,th {
+	border: 1px black solid;
+}
